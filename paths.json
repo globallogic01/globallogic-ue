@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/global-logic-edsue/:/",
+    "/content/global-logic-edsue/configuration:/.helix/config.json",
+    "/content/global-logic-edsue/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/global-logic-edsue/"
   ]
 }
