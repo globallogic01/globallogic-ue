@@ -15,7 +15,8 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+	  "accordiongroup"
     ]
   },
   {
@@ -24,6 +25,12 @@
       "card"
     ]
   },
+  {
+    "id": "accordiongroup",
+    "components": [
+      "accordion"
+    ]
+  },  
   {
     "id": "columns",
     "components": [
