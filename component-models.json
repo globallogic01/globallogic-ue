@@ -161,7 +161,7 @@
     ]
   },
   {
-    "id": "accordion",
+    "id": "accordionitems",
     "fields": [
       {
         "component": "text",
