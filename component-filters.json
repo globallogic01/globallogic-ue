@@ -16,7 +16,7 @@
       "cards",
       "columns",
       "fragment",
-	  "accordiongroup"
+	  "accordion"
     ]
   },
   {
@@ -26,9 +26,9 @@
     ]
   },
   {
-    "id": "accordiongroup",
+    "id": "accordion",
     "components": [
-      "accordion"
+      "accordionitems"
     ]
   },  
   {
