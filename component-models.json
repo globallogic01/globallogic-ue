@@ -33,6 +33,11 @@
         "multi": false
       },
       {
+        "component": "color",
+        "name": "color",
+        "label": "color-picker"
+      },	  
+      {
         "component": "text",
         "name": "imageAlt",
         "label": "Alt Text"
