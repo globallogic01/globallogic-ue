@@ -32,11 +32,7 @@
         "label": "Image",
         "multi": false
       },
-      {
-        "component": "color",
-        "name": "colorpic",
-        "label": "color-picker"
-      },	  
+	  
       {
         "component": "text",
         "name": "imageAlt",
@@ -156,6 +152,11 @@
         "label": "Image",
         "multi": false
       },
+      {
+        "component": "color",
+        "name": "colorpic",
+        "label": "color-picker"
+      },	  
       {
         "component": "richtext",
         "name": "text",
