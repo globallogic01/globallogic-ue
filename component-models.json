@@ -34,7 +34,7 @@
       },
       {
         "component": "color",
-        "name": "color",
+        "name": "colorpic",
         "label": "color-picker"
       },	  
       {
