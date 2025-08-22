@@ -152,11 +152,14 @@
         "label": "Image",
         "multi": false
       },
-      {
-        "component": "color",
-        "name": "colorpic",
-        "label": "color-picker"
-      },	  
+{
+  "component": "aem-content",
+  "name": "linkColor",
+  "label": "Link Color",
+  "type": "string",
+  "format": "color", 
+  "default": "#0000ff"
+},	  
       {
         "component": "richtext",
         "name": "text",
