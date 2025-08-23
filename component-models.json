@@ -146,13 +146,19 @@
             "value": "highlight"
           },
 		   {
-            "name": "Highlight-new",
-            "value": "highlight-new"
+            "name": "Highlight-new1",
+            "value": "highlight-new1"
           }
         ]
       },
     
-    { "component": "checkbox", "name": "ofeatured", "label": "oIs Featured?", "type": "boolean", "default": false },
+    {
+  "component": "input",
+  "name": "ofeatured",
+  "label": "Is Featured?",
+  "type": "boolean",
+  "default": false
+},
     { "component": "radio", "name": "layout", "label": "Layout", "options": ["Grid", "List"] }	,
 { "component": "number", "name": "oprice", "label": "Product Price" }	
     ]
