@@ -148,8 +148,8 @@
         ]
       },
     { "component": "number", "name": "oprice", "label": "oPrice" },
-    { "component": "checkbox", "name": "ofeatured", "label": "oIs Featured?" },
-    { "component": "toggle", "name": "oenabled", "label": "oEnabled" }	  
+    { "component": "checkbox", "name": "ofeatured", "label": "oIs Featured?", "type": "boolean", "default": false },
+    { "component": "radio", "name": "layout", "label": "Layout", "options": ["Grid", "List"] }	  
     ]
   },
   {
