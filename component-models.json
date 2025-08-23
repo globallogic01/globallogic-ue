@@ -130,10 +130,13 @@
         "description": "The label shown for this section in the Content Tree"
       },
       {
-        "component": "color",
-        "name": "bgColor",
-        "label": "Background Color"
-      },	  
+  "component": "input",
+  "name": "color",
+  "label": "Text Color",
+  "type": "string",
+  "format": "color",
+  "default": "#ff0000"
+},	  
       {
         "component": "multiselect",
         "name": "style",
