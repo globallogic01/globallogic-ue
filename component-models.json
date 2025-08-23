@@ -152,7 +152,8 @@
         ]
       },
 { "component": "file", "name": "attachment", "label": "Downloadable File" },
-{ "component": "number", "name": "oprice", "label": "ProductPrice" }	
+{ "component": "number", "name": "oprice", "label": "ProductPrice" }	,
+{ "component": "number", "name": "Age", "label": "User Age" }	
     ]
   },
   {
