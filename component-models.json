@@ -242,7 +242,7 @@
         "component": "richtext",
         "name": "storytext",
         "value": "",
-        "label": "StroyTelling",
+        "label": "Stroy Telling",
         "valueType": "string",
 		"features": ["bold", "italic", "underline", "color", "background"]
       }	  
