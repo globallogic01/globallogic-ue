@@ -49,14 +49,14 @@
   display: none;
 }
 .accordion-item summary::after {
-  content: '➕';
+  content: '➕➕';
   font-size: 1rem;
   transition: transform 0.3s ease;
 }
 
 /* Rotate icon when open */
 .accordion-item[open] summary::after {
-  content: '➖';
+  content: '➖➖';
 }
 
 /* Accordion Body */
@@ -73,3 +73,4 @@
   from { opacity: 0; transform: translateY(-4px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
