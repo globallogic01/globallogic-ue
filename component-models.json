@@ -241,6 +241,13 @@
         "label": "Text",
         "valueType": "string"
       }
+      {
+        "component": "color",
+        "name": "text",
+        "value": "",
+        "label": "Choose Color",
+        "valueType": "string"
+      }	  
     ]
   }
 ]
