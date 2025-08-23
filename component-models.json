@@ -133,8 +133,7 @@
   "component": "color",
   "name": "color",
   "label": "Text Color",
-  "type": "string",
-  "default": "#ff0000"
+  "value": "#ff0000"
 },	  
       {
         "component": "multiselect",
@@ -151,9 +150,9 @@
           }
         ]
       },
-{ "component": "file", "name": "attachment", "label": "Downloadable File" },
-{ "component": "number", "name": "oprice", "label": "ProductPrice" }	,
-{ "component": "number", "name": "Age", "label": "User Age" }	
+{ "component": "number", "name": "oprice", "label": "Product@Price" }	,
+{ "component": "number", "name": "Age", "label": "User Age" ,min="10", max="15"},
+{ "component": "range", "name": "markrange", "label": "Mark Range" ,min="10", max="15"}
     ]
   },
   {
