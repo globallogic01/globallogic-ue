@@ -147,25 +147,9 @@
           }
         ]
       },
-      {
-        "component": "multiselect",
-        "name": "City",
-        "label": "City",
-        "options": [
-          {
-            "name": "Chennai",
-            "value": "Chennai"
-          },
-		            {
-            "name": "Banglore",
-            "value": "Banglore"
-          },
-		            {
-            "name": "Mumbai",
-            "value": "Mumbai"
-          }
-        ]
-      }	  
+    { "component": "number", "name": "oprice", "label": "oPrice" },
+    { "component": "checkbox", "name": "ofeatured", "label": "oIs Featured?" },
+    { "component": "toggle", "name": "oenabled", "label": "oEnabled" }	  
     ]
   },
   {
