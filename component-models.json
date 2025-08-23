@@ -151,16 +151,8 @@
           }
         ]
       },
-    
-  {
-    "component": "input",
-    "name": "layout",
-    "label": "Layout",
-    "type": "string",
-    "enum": ["Grid", "List"],
-    "default": "Grid"
-  },
-{ "component": "number", "name": "oprice", "label": "Product- Price" }	
+{ "component": "file", "name": "attachment", "label": "Downloadable File" },
+{ "component": "number", "name": "oprice", "label": "ProductPrice" }	
     ]
   },
   {
