@@ -8,7 +8,7 @@
           "title": "Text",
           "id": "text",
           "plugins": {
-			"aem":{
+			"xwalk":{
               "page":{
                 "resourceType":"core/wcm/components/text/v2/text",
                 "template":{
