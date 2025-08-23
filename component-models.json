@@ -130,10 +130,9 @@
         "description": "The label shown for this section in the Content Tree"
       },
       {
-        "component": "date",
+        "component": "color",
         "name": "bgColor",
-        "label": "Background Color",
-        "valueType": "string"
+        "label": "Background Color"
       },	  
       {
         "component": "multiselect",
