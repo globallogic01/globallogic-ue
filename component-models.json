@@ -130,6 +130,13 @@
         "description": "The label shown for this section in the Content Tree"
       },
       {
+        "component": "color",
+        "name": "bgColor",
+        "value": "",
+        "label": "Background Color",
+        "valueType": "string"
+      },	  
+      {
         "component": "multiselect",
         "name": "style",
         "label": "Style",
@@ -152,14 +159,6 @@
         "label": "Image",
         "multi": false
       },
-{
-  "component": "aem-content",
-  "name": "linkColor",
-  "label": "Link Color",
-  "type": "string",
-  "format": "color", 
-  "default": "#0000ff"
-},	  
       {
         "component": "richtext",
         "name": "text",
@@ -243,16 +242,9 @@
       },
       {
         "component": "richtext",
-        "name": "text",
+        "name": "storytext",
         "value": "",
         "label": "StroyTelling",
-        "valueType": "string"
-      },			
-      {
-        "component": "color",
-        "name": "text",
-        "value": "",
-        "label": "Choose Color",
         "valueType": "string"
       }	  
     ]
