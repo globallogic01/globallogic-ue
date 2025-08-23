@@ -184,7 +184,29 @@
         { "name": "Option 1", "value": "option1" },
         { "name": "Option 2", "value": "option2" }
       ]
-    }	
+    },
+	{
+  "component": "container",
+  "name": "test",
+  "label": "Multi Text",
+  "multi": true,
+  "fields": [
+    {
+      "component": "reference",
+      "name": "image",
+      "value": "",
+      "label": "Sample Image",
+      "valueType": "string"
+    },
+    {
+      "component": "text",
+      "name": "alt",
+      "value": "",
+      "label": "Alt Text",
+      "valueType": "string"
+    }
+  ]
+}
 	
     ]
   },
