@@ -240,7 +240,7 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
-      }
+      },
       {
         "component": "color",
         "name": "text",
