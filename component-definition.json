@@ -8,12 +8,15 @@
           "title": "Text",
           "id": "text",
           "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/text/v1/text",
-                "template": {}
+			"aem":{
+              "page":{
+                "resourceType":"wknd/components/text",
+                "template":{
+                  "text":"Default Text",
+                  "name":"Text"
+                }
               }
-            }
+            },
           }
         },
         {
