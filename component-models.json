@@ -144,12 +144,17 @@
           {
             "name": "Highlight",
             "value": "highlight"
+          },
+		   {
+            "name": "Highlight-new",
+            "value": "highlight-new"
           }
         ]
       },
-    { "component": "number", "name": "oprice", "label": "oPrice" },
+    
     { "component": "checkbox", "name": "ofeatured", "label": "oIs Featured?", "type": "boolean", "default": false },
-    { "component": "radio", "name": "layout", "label": "Layout", "options": ["Grid", "List"] }	  
+    { "component": "radio", "name": "layout", "label": "Layout", "options": ["Grid", "List"] }	,
+{ "component": "number", "name": "oprice", "label": "Product Price" }	
     ]
   },
   {
