@@ -130,11 +130,10 @@
         "description": "The label shown for this section in the Content Tree"
       },
       {
-  "component": "input",
+  "component": "color",
   "name": "color",
   "label": "Text Color",
   "type": "string",
-  "format": "color",
   "default": "#ff0000"
 },	  
       {
@@ -160,6 +159,10 @@
 		            {
             "name": "Banglore",
             "value": "Banglore"
+          },
+		            {
+            "name": "Mumbai",
+            "value": "Mumbai"
           }
         ]
       }	  
