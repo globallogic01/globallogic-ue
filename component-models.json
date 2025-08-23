@@ -150,8 +150,7 @@
           }
         ]
       },
-{ "component": "number", "name": "oprice", "label": "Product-Price" }	,
-{ "component": "number", "name": "Age", "label": "User Age"}
+{ "component": "number", "name": "oprice", "label": "ProductPrice" }
     ]
   },
   {
