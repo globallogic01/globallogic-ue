@@ -167,14 +167,24 @@
     },
     {
       "component": "checkbox-group",
-      "label": "Checkbox Group",
-      "name": "checkbox",
+      "label": "Checkbox Group - Single",
+      "name": "checkboxSingle",
+      "valueType": "string",
+      "options": [
+        { "name": "Option 1", "value": "option1" },
+        { "name": "Option 2", "value": "option2" }
+      ]
+    },
+    {
+      "component": "checkbox-group",
+      "label": "Checkbox Group Multi",
+      "name": "checkbox-multi",
       "valueType": "string[]",
       "options": [
         { "name": "Option 1", "value": "option1" },
         { "name": "Option 2", "value": "option2" }
       ]
-    }
+    }	
 	
     ]
   },
