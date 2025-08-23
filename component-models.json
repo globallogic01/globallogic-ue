@@ -151,8 +151,7 @@
         ]
       },
 { "component": "number", "name": "oprice", "label": "Product-Price" }	,
-{ "component": "number", "name": "Age", "label": "User Age"},
-{ "component": "range", "name": "markrange", "label": "Mark Range" ,min="10", max="15"}
+{ "component": "number", "name": "Age", "label": "User Age"}
     ]
   },
   {
