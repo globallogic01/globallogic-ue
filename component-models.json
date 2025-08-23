@@ -156,6 +156,10 @@
           {
             "name": "Chennai",
             "value": "Chennai"
+          },
+		            {
+            "name": "Banglore",
+            "value": "Banglore"
           }
         ]
       }	  
