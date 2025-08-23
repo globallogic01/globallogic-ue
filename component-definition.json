@@ -42,30 +42,7 @@
             }
           }
         },
-        {
-          "title": "ColorPicker",
-          "id": "color",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/button/v1/button",
-                "template": {"model": "button"}
-              }
-            }
-          },
-		    "properties": {
-			"text": {
-			  "type": "string",
-			  "label": "Button Text"
-			},
-			"color": {
-			  "type": "string",
-			  "format": "color",
-			  "label": "Button Color",
-			  "default": "#3366cc"
-			}
-		  }		  
-        },		
+	
         {
           "title": "Button",
           "id": "button",
