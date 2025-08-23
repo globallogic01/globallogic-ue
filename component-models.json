@@ -242,6 +242,13 @@
         "valueType": "string"
       },
       {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "StroyTelling",
+        "valueType": "string"
+      },			
+      {
         "component": "color",
         "name": "text",
         "value": "",
