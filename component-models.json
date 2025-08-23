@@ -144,7 +144,8 @@
           }
         ]
       },
-{ "component": "number", "name": "oprice", "label": "Product--Price"}
+{ "component": "number", "name": "oprice", "label": "Product--Price"},
+{ "component": "aem-tag", "label": "AEM Tag Picker",  "name": "cq:tags", "valueType": "string" }
 
     ]
   },
