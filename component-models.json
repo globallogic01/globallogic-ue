@@ -132,7 +132,6 @@
       {
         "component": "color",
         "name": "bgColor",
-        "value": "",
         "label": "Background Color",
         "valueType": "string"
       },	  
@@ -146,7 +145,18 @@
             "value": "highlight"
           }
         ]
-      }
+      },
+      {
+        "component": "multiselect",
+        "name": "City",
+        "label": "City",
+        "options": [
+          {
+            "name": "Chennai",
+            "value": "Chennai"
+          }
+        ]
+      }	  
     ]
   },
   {
