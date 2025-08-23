@@ -10,7 +10,7 @@
           "plugins": {
 			"aem":{
               "page":{
-                "resourceType":"wknd/components/text",
+                "resourceType":"core/wcm/components/text/v2/text",
                 "template":{
                   "text":"Default Text",
                   "name":"Text"
