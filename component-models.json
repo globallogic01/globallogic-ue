@@ -129,13 +129,7 @@
         "label": "Section Name",
         "description": "The label shown for this section in the Content Tree"
       },
-      {
-  "component": "color",
-  "name": "color",
-  "label": "Text Color",
-  "value": "#ff0000"
-},	  
-      {
+	{
         "component": "multiselect",
         "name": "style",
         "label": "Style",
@@ -150,7 +144,7 @@
           }
         ]
       },
-{ "component": "number", "name": "oprice", "label": "ProductPrice"}
+{ "component": "number", "name": "oprice", "label": "Product--Price"}
     ]
   },
   {
@@ -249,7 +243,8 @@
         "name": "storytext",
         "value": "",
         "label": "StroyTelling",
-        "valueType": "string"
+        "valueType": "string",
+		"features": ["bold", "italic", "underline", "color", "background"]
       }	  
     ]
   }
